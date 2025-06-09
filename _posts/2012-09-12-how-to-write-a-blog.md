@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "왜 안되누!"
 ---
 
-# Welcome
+# 환영
 
-**Hello world**, this is my first Jekyll blog post.
+**Hello world**, 왜 안됨???
 
 I hope you like it!
